@@ -84,11 +84,11 @@ const Form = () => {
               required
             >
               <option value="">Select Type</option>
-              <option value="prescription">Prescription</option>
-              <option value="lab">Lab Report</option>
-              <option value="scan">Scan Report</option>
-              <option value="referral">Referral Note</option>
-              <option value="other">Other</option>
+              <option value="Prescription">Prescription</option>
+              <option value="Lab report">Lab Report</option>
+              <option value="Scan report">Scan Report</option>
+              <option value="Referral note">Referral Note</option>
+              <option value="Other">Other</option>
             </select>
           </div>
 
